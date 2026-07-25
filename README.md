@@ -1,16 +1,6 @@
-<h1 style="color: #00ff88;">Witaj na serwerze!</h1>
-<p style="color: white;">
-    Pobierz paczkę modów, aby dołączyć.
-</p>
+<h1>Paczka modów serwera</h1>
+<p>Aby dołączyć do serwera, pobierz paczkę modów.</p>
 
-<a href="modpack.zip">
-    <button style="
-        background:#00ff88;
-        color:black;
-        padding:12px 20px;
-        border:none;
-        border-radius:8px;
-        cursor:pointer;">
-        Pobierz paczkę
-    </button>
+<a href="https://www.mediafire.com/file/posvaouio1vh5r3/Bliss+-+a+peaceful-like+experience.zip/file" target="_blank">
+    <button>Pobierz paczkę</button>
 </a>
